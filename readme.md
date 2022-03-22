@@ -1,4 +1,4 @@
-= How to
+# How to
 1. Save the file on yours code`s folder
 1. Import the class FolderFinder
 1. Declare the object`s class (you can enable debug if desired)
